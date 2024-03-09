@@ -1,4 +1,4 @@
-tr iy out here! triadtraining.netlify.app !
+tr iy out here! https://triadtraining.netlify.app !
 
 # Getting Started with Create React App
 
